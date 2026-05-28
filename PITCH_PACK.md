@@ -16,7 +16,7 @@ Read the ruled lines aloud, in order. Italic lines are delivery cues for you; th
 
 ### Slide 1 — Cover · the equation [0:00 → 0:20]
 
-CV plus take-home plus interview theatre equals work the candidate did not do. That is the equation hiring is running today, and the whole path from interest to offer is full of artefacts, none of which are the work itself.
+Junior candidate, plus Claude in their pocket, plus a polished application, equals you hiring on vibes. That is the equation today, and nothing left in the funnel tells you who can do the job without the model.
 
 *Cue: Open on this. No "thanks for having me." Read the equation top to bottom, and slow down on the result line before you move on.*
 
@@ -24,9 +24,9 @@ CV plus take-home plus interview theatre equals work the candidate did not do. T
 
 ### Slide 2 — The frame [0:20 → 0:55]
 
-Each artefact along the path from interest to offer was once a proxy for something a hiring manager could not watch directly. Frontier models hollowed those proxies out one by one, and the CV, the take-home, the polished portfolio, and the LeetCode round still ship while the signal that used to sit underneath them is gone, so on the way in a candidate who can do the job is now indistinguishable from one who cannot. What hiring needs back is a way to see the work itself.
+Your junior is using Claude shamelessly. How do you know which of them can do the job? By the time the candidate reaches your inbox, Claude has written the CV, shipped the take-home, deployed the portfolio site, and rehearsed the answers for the final round. Each artefact you once used to judge competence now arrives polished from the same model, and nothing left in the funnel tells you which of the candidates in front of you could ship anything without it. Hiring needs to watch the candidate work with the model in the room.
 
-*Cue: Even pace. The closing line is the bridge into the rest of the deck; let the room sit with it.*
+*Cue: Land the question in the headline before you read the lede. Look at the audience when you ask it. The closing line is the bridge into the rest of the deck; let the room sit with it.*
 
 ---
 
@@ -72,7 +72,7 @@ What hiring managers want is to watch the candidate do the work. What they want,
 
 ### Slide 8 — The reframe [3:10 → 3:30]
 
-So what if the application was the work. If a candidate could ship a piece of the job before applying for it, a hiring manager could read the work itself and the reasoning behind the moves that produced it, and decide whether to interview on the strength of what they had built. Both sides start the job before either side commits to it.
+So what if the application was the work. If a candidate shipped a piece of the actual job before they applied, you would see who was thinking with the model and who was just letting it ship, and decide whether to interview on the strength of what they had built. Both sides start the job before either side commits to it.
 
 *Cue: This is the pivot. Read it slower than you want to. Let "Both sides start the job before either side commits to it" sit.*
 
