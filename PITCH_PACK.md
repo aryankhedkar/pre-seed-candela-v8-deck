@@ -16,23 +16,23 @@ Read the ruled lines aloud, in order. Italic lines are delivery cues for you; th
 
 ### Slide 1 — Cover · the equation [0:00 → 0:20]
 
-CV plus take-home plus interview theatre equals work the candidate did not do. That is the equation hiring is running today. The whole loop is full of artefacts, and none of them are the work.
+CV plus take-home plus interview theatre equals work the candidate did not do. That is the equation hiring is running today, and the whole path from interest to offer is full of artefacts, none of which are the work itself.
 
-*Cue: Open on this. No "thanks for having me." Read the equation top to bottom, then pause on the result line.*
-
----
-
-### Slide 2 — The frame [0:20 → 0:50]
-
-AI changed how engineering work gets done, and the hiring loop is still pretending it didn't. The candidate sends a CV, the recruiter scans it for keywords, the hiring manager runs a take-home any frontier model can finish in twenty minutes, and both sides come out of that tired, with neither having learned anything about whether this person can do the job. The whole hiring loop is a proxy for the work, and none of it is the work.
-
-*Cue: Even pace. The "proxy for the work" line lands harder if you let the silence before it sit.*
+*Cue: Open on this. No "thanks for having me." Read the equation top to bottom, and slow down on the result line before you move on.*
 
 ---
 
-### Slide 3 — The signal problem [0:50 → 1:25]
+### Slide 2 — The frame [0:20 → 0:55]
 
-Look at what each artefact in hiring really proves. A CV is supposed to prove who the candidate is and what they have done; in practice it proves they can write a CV. A GitHub graph is supposed to show how they work; it shows they committed something, somewhere. A personal site is supposed to demonstrate taste; it demonstrates they bought a Vercel domain. A take-home is supposed to prove they can build the thing; today it proves Claude can build the thing. A LeetCode round is supposed to test reasoning; it tests memorisation. A behavioural interview is supposed to surface how they collaborate; it surfaces how they rehearsed. None of these are the work.
+Each artefact along the path from interest to offer was once a proxy for something a hiring manager could not watch directly. Frontier models hollowed those proxies out one by one, and the CV, the take-home, the polished portfolio, and the LeetCode round still ship while the signal that used to sit underneath them is gone, so on the way in a candidate who can do the job is now indistinguishable from one who cannot. What hiring needs back is a way to see the work itself.
+
+*Cue: Even pace. The closing line is the bridge into the rest of the deck; let the room sit with it.*
+
+---
+
+### Slide 3 — The signal problem [0:55 → 1:25]
+
+Look at what each artefact in hiring promised, and what it proves now. A CV promised to tell an employer who the candidate was and what they had done, and it proves they can write a CV. A GitHub graph promised to show how the candidate works, and it shows they committed something, somewhere. A personal site promised to demonstrate taste, and it demonstrates a Vercel deploy. A take-home promised the candidate could build the thing, and it now proves Claude can. A LeetCode round was supposed to test reasoning, and it tests memorisation. A behavioural interview was supposed to surface how a candidate collaborates, and it surfaces how they rehearsed. None of these are the work itself.
 
 *Cue: Pace the rows. The room reads ahead of you on a table this dense; let them catch up before the closing line.*
 
@@ -40,15 +40,15 @@ Look at what each artefact in hiring really proves. A CV is supposed to prove wh
 
 ### Slide 4 — The CV [1:25 → 1:50]
 
-A recruiter spends six seconds on a CV. That is enough to scan for school, company logos and a couple of keywords. It is not enough to learn anything about how the candidate thinks or what they could ship on a Tuesday. Eighty-four percent of CVs get filtered by an ATS keyword match before any human reads them. The document about engineering has zero lines of code on it. A CV tells the employer what the candidate sat through, and none of it is the work.
+A recruiter spends six seconds on a CV. That window is enough to read a school name, a couple of company logos, and three or four keywords from the role on file, and far too short to learn anything about how the candidate thinks or what they could ship on a Tuesday. Eighty-four percent of CVs are filtered by an ATS keyword match before any human reads them. The document about engineering has zero lines of code on it. A CV tells the employer what the candidate sat through, and none of it is the work itself.
 
-*Cue: Slow on "zero lines of code." Let that one land.*
+*Cue: Slow on the zero-lines-of-code line. Let that one land.*
 
 ---
 
 ### Slide 5 — The take-home [1:50 → 2:15]
 
-Take-homes were the closest hiring came to real work. Then frontier models made it cheap to ship a clean PR overnight without thinking through any of the trade-offs. Authorship is gone, because a submitted PR looks identical whether the candidate sat with it for four hours or piped the brief into Cursor. Effort is invisible, because the path the candidate took to reach the artefact is lost. Comparison breaks down, because each candidate gets a slightly different brief with a different bar. Hiring managers know this. They keep shipping the take-home because they have nothing better.
+For a long time the take-home was the closest hiring came to watching the candidate do the actual work, because they had to sit with a problem for a few hours and ship something a hiring manager could read end to end. Then frontier models made it cheap to ship a clean PR overnight without weighing a single trade-off along the way. Authorship is gone, because a submitted PR looks identical whether the candidate sat with it for four hours or piped the brief into Cursor. Effort is invisible, because the path the candidate took to reach the artefact is lost. Comparison breaks down, because each candidate gets a slightly different brief with a different bar. Hiring managers know this, and they keep shipping the take-home because they have nothing better.
 
 *Cue: "Nothing better" is the line that sets up the product. Read it without flinching.*
 
@@ -56,15 +56,15 @@ Take-homes were the closest hiring came to real work. Then frontier models made 
 
 ### Slide 6 — The portfolio [2:15 → 2:40]
 
-GitHub graphs and personal sites stopped telling employers anything. The portfolio used to be the proof the CV could not give, until the bar for shipping one dropped to a Cursor prompt and a Vercel deploy, and the medium got cheap enough to be invisible. READMEs nobody reads, polished sites that look the same as the next polished site, commit graphs that are shape without story: the portfolio became wallpaper that looks nice and tells the hiring manager nothing.
+A portfolio was once the proof a CV could not give, because shipping one took weeks and the result told the hiring manager something about how the candidate worked when nobody was watching. The bar for putting a clean, deployed site up dropped to a Cursor prompt and a Vercel deploy, and the polish on the page stopped being a signal about the person behind it. READMEs nobody reads, polished sites that look the same as the next polished site, and commit graphs that are shape without story: the portfolio became wallpaper that looks nice and tells the hiring manager nothing.
 
-*Cue: Land "wallpaper." It is the bridge into what people really want.*
+*Cue: Land "wallpaper." That is the word that closes the problem section.*
 
 ---
 
 ### Slide 7 — What they want [2:40 → 3:10]
 
-What hiring managers want is to see the candidate do the work itself: the thing they would build on their first day, and a record of how they thought their way through it. Three properties make that readable on the page. It has to be real, in the sense that the task lives inside the job the candidate would do. It has to be comparable, with the same brief and the same rubric across applicants. It has to be time-bound, because the clock is what makes the artefact a signal again. A founder whiteboarding three features the team needs to ship this quarter already knows the shape of the test they want to run, and they have no way to run it.
+What hiring managers want is to watch the candidate do the work. What they want, in detail, is the artefact the candidate would have built in their first month on the job, and the reasoning behind the moves that produced it. Three properties make that readable on a hiring manager's desk. It has to be real, in the sense that the task lives inside the job the candidate would do. It has to be comparable, with the same brief and the same rubric across applicants. It has to be time-bound, because the clock is what makes the artefact a signal again. A founder whiteboarding the three features their team needs this quarter already knows the shape of the test they would put a hire through, and no way to run it on a stranger.
 
 *Cue: Slow on the founder line. That is the audience for the rest of the deck.*
 
@@ -72,15 +72,15 @@ What hiring managers want is to see the candidate do the work itself: the thing 
 
 ### Slide 8 — The reframe [3:10 → 3:30]
 
-So what if the application was the work. The candidate ships Day 1 of the job before they apply, the hiring manager reads the work and the reasoning behind it, and the offer turns into paperwork. Both sides start the job before either side commits to it.
+So what if the application was the work. If a candidate could ship a piece of the job before applying for it, a hiring manager could read the work itself and the reasoning behind the moves that produced it, and decide whether to interview on the strength of what they had built. Both sides start the job before either side commits to it.
 
-*Cue: This slide is the pivot. Read it slower than you want to. Let "Both sides start the job before either side commits to it" sit.*
+*Cue: This is the pivot. Read it slower than you want to. Let "Both sides start the job before either side commits to it" sit.*
 
 ---
 
 ### Slide 9 — The product [3:30 → 4:00]
 
-Candela v8 is the hiring loop, rebuilt as work. A founder pastes a job description, the platform turns it into a real project, a candidate finds the role and ships it on the clock, and the hiring manager reads the scored submission and decides whether to interview. Three primitives carry it. Job-as-project, where any JD becomes a real project the candidate can build. Live build, where candidates build inside Candela on a visible clock. AI shortlist, where submissions are scored against the rubric the JD generated and the hiring manager reads only the top of the stack.
+Candela v8 is hiring rebuilt around the work itself. A founder pastes the role they are hiring for, and Candela writes the project a strong candidate would have to ship to prove they could do the job from week one. The candidate finds the role through the company's page on Candela, takes the project on a visible window, and builds it inside the existing workspace with the thinking partner beside them. The submission is scored against the rubric the role generated, and the hiring manager opens the work that cleared the bar and reads it before deciding whether to call. Three primitives carry it: the role becomes a project, the build runs live with the thinking partner in the room, and the submissions land on the hiring manager's desk ranked and ready to read.
 
 *Cue: The three primitives are the spine of the rest of the deck. Say them in order; the next ten slides drill into each one.*
 
@@ -88,7 +88,7 @@ Candela v8 is the hiring loop, rebuilt as work. A founder pastes a job descripti
 
 ### Slide 10 — Paste a JD [4:00 → 4:20]
 
-For the hiring manager: paste a job description, any job description, the version already living in your ATS, the LinkedIn post you copy-pasted yesterday, the Google Doc the team argued over for two weeks. One paste, no rewriting. The platform reads the role on the left, and the project a strong candidate would ship is about to come out on the right.
+For the hiring manager: paste a job description, any job description. Whatever you have already written, whether the version sitting in your ATS, the LinkedIn post you copy-pasted yesterday, or the Google Doc the team argued over for two weeks, Candela reads on the way in. The platform reads the role on the left of the screen, and the project a strong candidate would ship is about to come out on the right.
 
 *Cue: Point at the left pane. The right pane is intentionally still loading; the reveal comes next.*
 
@@ -96,15 +96,15 @@ For the hiring manager: paste a job description, any job description, the versio
 
 ### Slide 11 — The reveal [4:20 → 4:50]
 
-Out comes the project a strong candidate would ship to prove they can do the job. From the founding engineer JD: ship a Postgres-backed ledger reconciler from a sample feed. Milestone one, parse the sample CSV ingest and write to a typed Postgres schema. Milestone two, implement the reconciler against a second feed with deliberate mismatches and log the trade-offs you chose. Milestone three, write the README the next engineer needs to take this on call without a meeting. The whole thing is scored against reasoning depth, scope discipline, code quality, communication and iteration honesty. What the platform returns is a real project the candidate can fork, build, and ship in a window the hiring manager set.
+Out comes the project a strong candidate would ship to prove they can do the job. From the founding engineer JD: ship a Postgres-backed ledger reconciler from a sample feed. The first milestone parses the sample CSV ingest and writes typed rows into Postgres. The second implements the reconciler against a second feed with deliberate mismatches and asks the candidate to log the trade-off they chose to live with. The third asks for the README the next engineer would need to take this on call without a meeting. The whole thing is scored against reasoning depth, scope discipline, code quality, communication, and iteration honesty. The artefact that comes back is the same thing the team would have asked a new hire to ship in their first month, ready for the candidate to fork, build, and submit inside the window the hiring manager set.
 
-*Cue: This is the demo moment Nadal reacted to. Move slowly through the right pane. Land the "real project" line and let it sit.*
+*Cue: This is the demo moment Nadal reacted to. Move slowly through the right pane and let the milestones land in sequence.*
 
 ---
 
 ### Slide 12 — The brief [4:50 → 5:15]
 
-Each project ships with milestones, starter scaffolding, and a scoring rubric. The output is a structured project: three slices in sequence, where the first proves the candidate can stand the project up, the second exposes the trade-off the role will face on the job, and the third tests how they ship it for the next hire. The repo skeleton, the sample input, and the README stub mean the candidate starts where the role starts. The rubric weighs reasoning depth, scope discipline, code quality, communication, and iteration honesty by role, and the same rubric scores all applicants for that role.
+What Candela writes is the project itself. On paste, the role becomes a structured brief: three milestones in sequence, a repo skeleton and a sample input the candidate can clone from the next click, and a five-criterion rubric pulled from the role and weighted to it. The first milestone proves the candidate can stand the project up. The second exposes the trade-off the role will face on the job. The third tests how the candidate would ship it for the next hire. The hiring manager wrote a job description, and Candela shipped a comparable, time-bound, real project on top of it.
 
 *Cue: Slow on the rubric. It is the part hiring managers ask about first.*
 
@@ -112,7 +112,7 @@ Each project ships with milestones, starter scaffolding, and a scoring rubric. T
 
 ### Slide 13 — Your portal [5:15 → 5:35]
 
-Publish to a company portal that looks like yours. The link is the discovery surface. Your logo, your hiring brief, your open roles, the projects students would ship for them. Shareable to a careers office, an investor list, a Slack DM. LinkedIn replaced by a page that says something about how the work gets done here.
+The role lives on your own page on Candela. Your logo at the top, your hiring brief underneath, the open roles and the projects a candidate would ship for them on a single page. The link is shareable to a careers office, an investor list, or a Slack DM, and the candidate who clicks finds the test in front of them. What used to be a LinkedIn job post is now a page that says something about how the work gets done here.
 
 *Cue: Point at the role rows. Each one is a project the candidate would ship.*
 
@@ -120,55 +120,55 @@ Publish to a company portal that looks like yours. The link is the discovery sur
 
 ### Slide 14 — For the candidate [5:35 → 5:55]
 
-For the candidate. A recent graduate hears about Candela from their careers office, at Imperial first, then Oxbridge, then any technical university. They open the company's portal page and read the role, with the project they would build laid out alongside the salary and the build window. The application is the work itself, and the clock has not started yet.
+For the candidate. A recent graduate hears about Candela from their careers office, at Imperial first, then Oxbridge, then any technical university. They open the company's page on Candela and read the role, and the project they would build is laid out next to the salary and the build window, with a clock for it that has not started yet. The application is the project itself.
 
-*Cue: Read the role title and the salary as you point. The clock hasn't started yet is the line that flips the page.*
+*Cue: Read the role title and the salary as you point. The clock has not started yet is the line that flips the page.*
 
 ---
 
 ### Slide 15 — The clock [5:55 → 6:15]
 
-Twenty-four hours, headphones on, build. The candidate starts the project and the clock starts with it, with the brief, the workspace, the thinking partner, and the rubric in view, and the submission window as the only other piece of chrome on the screen.
+Twenty-four hours, headphones on, build. On click the clock starts and the candidate goes into the workspace, with the brief, the thinking partner, and the rubric sitting alongside the code, and the only other piece of chrome on the screen is the submission window counting down.
 
-*Cue: This is the candidate's beat. Say it like the candidate. Then pause.*
+*Cue: This is the candidate's beat. Say it like the candidate would say it, then pause.*
 
 ---
 
 ### Slide 16 — The build [6:15 → 6:30]
 
-The candidate builds inside Candela's workspace, with the thinking partner beside them, and the reasoning log capturing how they think. The IDE, the thinking partner, and the reasoning log already exist in Candela v1. v8 repurposes them as the application surface for hiring. The candidate builds the same way a Candela student builds.
+The candidate builds inside Candela's workspace, with the thinking partner beside them, and the reasoning log capturing how they think. The IDE, the thinking partner, and the reasoning log already exist in Candela v1, and v8 puts them in the candidate's hands as the application surface, so a candidate applying for a role builds it the same way a Candela student builds anything else.
 
-*Cue: Point at the coach pane. Read the coach question aloud. That is the magic the rest of the platform extends to hiring.*
+*Cue: Point at the coach pane. Read the coach question aloud. That is the magic the rest of the platform now extends to hiring.*
 
 ---
 
 ### Slide 17 — Submit [6:30 → 6:45]
 
-Submit, and the work gets frozen and scored. The files and the reasoning log both lock, and the submission appears on the hiring manager's pipeline within seconds, scored against the rubric the JD generated and ranked against the other submissions before the founder's coffee lands.
+On submit, the work locks and Claude scores it against the rubric the role generated. The candidate ships before the clock runs out, and the files and the reasoning log lock at the same moment, with the submission landing on the hiring manager's pipeline within seconds and ranked against the other submissions for the same role.
 
-*Cue: One sentence per pillar. Move quickly.*
+*Cue: One sentence per pillar. Move quickly here; the next slide is the payoff.*
 
 ---
 
 ### Slide 18 — The pipeline [6:45 → 7:00]
 
-Sixteen applied, eleven are building, four have submitted, and two cleared the bar. Each role has four columns, and each card carries a face, a name, a score, and a pull-quote from the candidate's reasoning log, where the recruiter used to read a CV and a cover letter. The hiring manager reads the column that matters.
+Sixteen applied, eleven are building, four have submitted, and two cleared the bar. The hiring manager opens the role and sees four columns: applied, building, submitted, cleared. Each card carries a face, a name, a score, and a pull-quote from the candidate's reasoning log, sitting in the place where the recruiter used to read a CV and a cover letter. The hiring manager reads the column that matters.
 
-*Cue: Read the column counts in the title. Then point at the flame-bordered column on the right.*
+*Cue: Read the column counts in the title, then point at the flame-bordered column on the right.*
 
 ---
 
 ### Slide 19 — The filter [7:00 → 7:20]
 
-Three submissions cleared the bar this morning. Read the work. The hiring manager opens Candela and sees the column that matters. Sixteen applicants became three reads by the time the morning coffee landed. Each card lifts the strongest excerpt from the candidate's reasoning log, with a link to the frozen project behind it. From sixteen CVs to three reads, by the time the founder's coffee lands.
+Three submissions cleared the bar this morning, with the work behind each one a click away. The hiring manager opens Candela and sees the column that matters, with sixteen applicants reduced to three reads by the time the morning coffee landed, and each card lifts the strongest excerpt from the candidate's reasoning log next to a link to the frozen project behind it. From sixteen CVs to three reads, by the time the founder's coffee lands.
 
-*Cue: Read one of the reasoning excerpts aloud. That is the texture the rest of the loop is built to surface.*
+*Cue: Read one of the reasoning excerpts aloud. That is the texture the rest of the product is built to surface.*
 
 ---
 
 ### Slide 20 — The close [7:20 → 7:40]
 
-When the application is the work, hiring is no longer theatre. The candidate already did Day 1, the hiring manager already read their reasoning, and the offer turns into paperwork. That is what Candela v8 is for. Paste a JD into candela-ed.com, watch it become a real project, and read the work it pulls back. Try it before you say no.
+When the application is the work, hiring is no longer theatre. The candidate already did Day 1, the hiring manager already read their reasoning, and the offer turns into paperwork. That is what Candela v8 is for. Paste a JD into candela-ed.com, watch it become a real project, and read the work it pulls back.
 
 *Cue: Stop on "That is what Candela v8 is for." Do not add a thank-you on top. Let the silence do the work.*
 
@@ -188,7 +188,7 @@ A take-home is private, asymmetric, and uncomparable across candidates. A Candel
 
 ### Q2. "What stops the candidate from prompting Claude for the whole thing?"
 
-Two things. First, the reasoning log captures the path the candidate took alongside the artefact they landed on, the rubric scores iteration honesty alongside code quality, and a candidate who handed the build to a model without thinking through the trade-off shows up in the log. Second, the thinking partner asks the question that makes the candidate weigh the trade-off before accepting whatever the model offered first. The platform is built around frontier models in the room with the candidate, and the signal is what the candidate did with that model.
+Two things. First, the reasoning log captures the path the candidate took alongside the artefact they landed on, the rubric scores iteration honesty alongside code quality, and a candidate who handed the build to a model without weighing the trade-off shows up in the log. Second, the thinking partner asks the question that makes the candidate weigh the trade-off before accepting whatever the model offered first. The platform is built around frontier models in the room with the candidate, and the signal is what the candidate did with that model.
 
 ---
 
@@ -226,20 +226,20 @@ It is the same product, applied to hiring. The IDE, the thinking partner, the re
 
 | Beat | Number | Source |
 |---|---|---|
-| Problem | Recruiter scan time per CV | **6 seconds** | Eye-tracking research, major UK + US firms |
-| Problem | CVs filtered by ATS before a human reads | **84%** | Jobscan ATS research, 2024 |
-| Problem | Lines of code on a CV | **0** | The point |
-| Product | Time from paste to generated project | **~15 seconds** | Claude Haiku for metadata, Sonnet for the brief |
-| Product | Build window per role | **24 hours, configurable** | Set by the hiring manager |
-| Product | Rubric criteria | **5, weighted from the JD** | Reasoning depth, scope discipline, code quality, communication, iteration honesty |
-| Product | Candidate-side platform | **Existing Candela v1.0** | IDE, thinking partner, reasoning log, scorer |
-| Product | Demo pipeline cohort | **3 companies, 10 candidates each** | Helia (energy), Ferrum (banking), Vexel (deeptech) |
+| Problem · Recruiter scan time per CV | **6 seconds** | Eye-tracking research, major UK + US firms |
+| Problem · CVs filtered by ATS before a human reads | **84%** | Jobscan ATS research, 2024 |
+| Problem · Lines of code on a CV | **0** | The point |
+| Product · Time from paste to generated project | **~15 seconds** | Claude Haiku for metadata, Sonnet for the brief |
+| Product · Build window per role | **24 hours, configurable** | Set by the hiring manager |
+| Product · Rubric criteria | **5, weighted from the JD** | Reasoning depth, scope discipline, code quality, communication, iteration honesty |
+| Product · Candidate-side platform | **Existing Candela v1.0** | IDE, thinking partner, reasoning log, scorer |
+| Product · Demo pipeline cohort | **3 companies, 10 candidates each** | Helia (energy), Ferrum (banking), Vexel (deeptech) |
 
 ---
 
 ## Part 4 — Before You Walk In
 
-- **Rehearse the paste-the-JD beat hardest.** Slide 10 to 11 is the moment Nadal reacted to. The pause between the loading dots and the reveal is the moment that lands the product.
+- **Rehearse the paste-the-JD beat hardest.** Slide 10 to 11 is the moment Nadal reacted to. The pause between the loading dots and the reveal is where the product lands.
 - **Have the live URL ready to share.** Slide 20 closes on "paste a JD into candela-ed.com." Be ready to do it in the room if the meeting goes long.
 - **The candidate beat is in the second half.** Slides 14 to 17 are the recent-graduate story. Tell it like a story.
 - **End on the close.** "That is what Candela v8 is for" is the last sentence you say out loud. The CTA panel underneath is for them to take with them.
